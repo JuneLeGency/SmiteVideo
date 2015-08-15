@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vitamio_name">BambooPlayer</string>
+    <string name="vitamio_name_label">Esportbox Player\n To be convient</string>
+    <string name="vitamio_init_decoders">Installing encoders &#8230;</string>
+    <string name="vitamio_videoview_error_title">Video not support</string>
+    <string name="vitamio_videoview_error_text_invalid_progressive_playback">Video not support</string>
+    <string name="vitamio_videoview_error_text_unknown">Video not support</string>
+    <string name="vitamio_videoview_error_button">OK</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+    <string name="content_desc_lock">Lock</string>
+    <string name="content_desc_menu">Menu</string>
+    <string name="video_layout_loading">loading from ESPORTSBOX</string>
+    <string name="video_original">Orignal Graphic</string>
+    <string name="video_fit_screen">Fullscreen</string>
+    <string name="video_stretch">stretch graphic</string>
+    <string name="video_crop">Clip Video</string>
+    <string name="video_screen_locked">Lock Screen</string>
+    <string name="video_screen_unlocked">Unlock Screen</string>
+    <string name="video_cannot_play">Can not open this video</string>
+    <string name="video_layout_buffering_progress"> %.0f%% loaded</string>
+    <string name="closing_file">Exiting</string>
+    <string name="file_explorer_sdcard_not_available">Your SDcard is unreadable</string>
+    <string name="subtitle_image">Subtitle</string>
+    <string name="anotherback_finish">Press Back Again To Exit</string>
+
+    <string-array name="videoquality">
+        <item>Low</item>
+        <item>Normal</item>
+        <item>HD</item>
+    </string-array>
+
+    <string name="load_please_wait">Parsing Video...</string>
+
+</resources>

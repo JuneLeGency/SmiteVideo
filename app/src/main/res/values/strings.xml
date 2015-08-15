@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gosmite</string>
+    <string name="title_activity_test_api">TestApi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_video">TestVideo</string>
+    <string name="openvideo1">打开视屏</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_player">PlayerActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_more_video">没有更多的视频了</string>
+
+</resources>

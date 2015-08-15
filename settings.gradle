@@ -1,0 +1,2 @@
+include ':app', ':vitamio', ':vitamio-sample', ':bambooPlayer', ':blurlayout'
+project(':vitamio-sample').projectDir = new File('libraries/vitamio-sample')
